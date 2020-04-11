@@ -9,12 +9,12 @@ export const MEMBERS_URL = "https://my.proxy4less.com";
 /*
  Your site name - this appears in the footer
 */
-export const SITE_NAME = "Proxy4Less";
+export const SITE_NAME = "PROXY4LESS";
 
 /*
  The name of you site that appears in Terms of service section - it can be you domain, your company name, etc.
 */
-export const TOS_SITE_NAME = 'Proxy4Less';
+export const TOS_SITE_NAME = 'PROXY4LESS';
 
 /*
  The date when the terms of service where last updated.
