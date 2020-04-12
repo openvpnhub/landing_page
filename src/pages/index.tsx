@@ -54,6 +54,7 @@ class MainPage extends React.Component<Props, State> {
 					<title>Buy Anonymous Residential and Datacenter Proxies or SOCKSv5 with Bitcoin</title>
 					<meta name="description" content={SEO_DESCRIPTION} />
 					<meta name="keywords" content={SEO_KEYWORDS} />
+					<meta name="google-site-verification" content="XwGDVFBvtg3bUIef8e-LsPjpOPIy-hfSUYDGIcViGwY" />
 				</Helmet>
 
 				<MainRoute />
