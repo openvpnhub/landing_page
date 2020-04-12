@@ -34,7 +34,7 @@ export const BACKEND_URL = 'https://backend.changemyip.com';
 /*
  Meta tags for SEO - description and keywords for this site
 */
-export const SEO_DESCRIPTION = 'Buy Anonymous Private Shared & Dedicated Proxies - Accept Bitcoin';
+export const SEO_DESCRIPTION = 'Buy clean residential and datacenter private proxies with Bitcoin, PayPal, PerfectMoney. US residential proxies are available to buy for affordable price. Shared proxies starting at $0.99 per month.';
 // The keywords need to be separated by comma
-export const SEO_KEYWORDS = 'anonymous private shared proxy, dedicated proxy, datacenter proxy, socks, shared proxies, dedicated proxies, residential proxies, socksv5';
+export const SEO_KEYWORDS = 'anonymous private shared proxy, dedicated proxy, datacenter proxy, socks, shared proxies, dedicated proxies, residential proxies, socksv5, us residential proxy, europe residential proxy';
 
