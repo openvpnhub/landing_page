@@ -51,7 +51,7 @@ class MainPage extends React.Component<Props, State> {
 		return (
 			<React.Fragment>
 				<Helmet>
-					<title>Anonymous proxies and SOCKSv5</title>
+					<title>Buy Anonymous Residential and Datacenter Proxies or SOCKSv5 with Bitcoin</title>
 					<meta name="description" content={SEO_DESCRIPTION} />
 					<meta name="keywords" content={SEO_KEYWORDS} />
 				</Helmet>
