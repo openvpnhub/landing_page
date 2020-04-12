@@ -65,7 +65,7 @@ class Reviews extends React.Component<Props, State> {
 			<footer className="footer section section--gradient__2">
 				<Container>
 					<Preamble light title={SITE_NAME}>
-						We offer highly secure, (Dedicated or Shared) SOCKSv5 and Proxies.
+						We Provide Highly Anonymous, Residential and Datacenter (Dedicated or Shared) SOCKSv5 and Proxies.
 					</Preamble>
 					<Row>
 						<FooterColumn
