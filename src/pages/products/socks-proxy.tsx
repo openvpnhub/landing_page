@@ -18,7 +18,7 @@ import {
 const SocksProxy = () => (
 	<React.Fragment>
 		<Helmet>
-			<title>SOCKSv5 proxies</title>
+			<title>SOCKSv5 Proxies</title>
 			<meta name="description" content={SEO_DESCRIPTION} />
 			<meta name="keywords" content={SEO_KEYWORDS} />
 		</Helmet>

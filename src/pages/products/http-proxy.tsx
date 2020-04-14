@@ -18,7 +18,7 @@ import {
 const HttpProxy = () => (
 	<React.Fragment>
 		<Helmet>
-			<title>Http proxies</title>
+			<title>Http Proxies</title>
 			<meta name="description" content={SEO_DESCRIPTION} />
 			<meta name="keywords" content={SEO_KEYWORDS} />
 		</Helmet>

@@ -18,7 +18,7 @@ import {
 const SharedProxy = () => (
 	<React.Fragment>
 		<Helmet>
-			<title>Shared proxies</title>
+			<title>Shared Proxies</title>
 			<meta name="description" content={SEO_DESCRIPTION} />
 			<meta name="keywords" content={SEO_KEYWORDS} />
 		</Helmet>

@@ -18,7 +18,7 @@ import {
 const DedicatedProxy = () => (
 	<React.Fragment>
 		<Helmet>
-			<title>Dedicated proxies</title>
+			<title>Dedicated Proxies</title>
 			<meta name="description" content={SEO_DESCRIPTION} />
 			<meta name="keywords" content={SEO_KEYWORDS} />
 		</Helmet>
