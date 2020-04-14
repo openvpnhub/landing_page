@@ -12,7 +12,8 @@ import {
 	NavItem,
 	NavLink
 } from 'reactstrap';
-import ChatLink from '../generic/chatLink';
+
+//import ChatLink from '../generic/chatLink';
 
 // Scss
 import '../../styles/components/navbar.scss';
@@ -113,7 +114,6 @@ class NavBar extends React.Component<Props, State> {
                             </NavItem>
                         </Nav>
 
-					<!--	<ChatLink hasIcon /> -->
                     </Collapse>
                 </Container>
             </Navbar>
