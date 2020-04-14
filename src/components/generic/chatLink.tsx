@@ -47,10 +47,10 @@ class ChatLink extends React.Component<Props, State> {
 		const { hasIcon = false, tawkToStatus } = this.props;
 
 		return (
-			<a className="chat-link" onClick={() => { Tawk_API.toggle() }}>
+		<!--	<a className="chat-link" onClick={() => { Tawk_API.toggle() }}>
                 {hasIcon && <FontAwesomeIcon icon={faComment} className="mr-2" /> }
 				{`Live Chat${tawkToStatus ? ` (${tawkToStatus})` : '' }`}
-			</a>
+			</a> -->
 		);
 	}
 }
