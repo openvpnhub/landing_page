@@ -83,8 +83,8 @@ class NavBar extends React.Component<Props, State> {
             <Navbar expand="lg" light className={navClasses}>
                 <Container>
                     <NavbarBrand href="/">
-                        <img src={logoLightSrc} alt="Logo" className="light" />
-                        <img src={logoDarkSrc} alt="Logo" className="dark" />
+                        <img src={logoLightSrc} alt="Proxy4less" className="light" />
+                        <img src={logoDarkSrc} alt="Proxy4less" className="dark" />
                     </NavbarBrand>
                     <NavbarToggler onClick={this.toggleNav} />
                     <Collapse isOpen={isOpen} navbar>
@@ -113,7 +113,7 @@ class NavBar extends React.Component<Props, State> {
                             </NavItem>
                         </Nav>
 
-						<ChatLink hasIcon />
+					<!--	<ChatLink hasIcon /> -->
                     </Collapse>
                 </Container>
             </Navbar>
