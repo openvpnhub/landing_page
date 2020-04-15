@@ -108,11 +108,6 @@ class Reviews extends React.Component<Props, State> {
 								url: MEMBERS_URL,
 								native: true
 							}
-							, {
-								label: 'Sitemap',
-								url: SITEMAP_ROUTE,
-								native: true
-							}
 							]}
 						/>
 						<FooterColumn title="Support">
@@ -130,12 +125,9 @@ class Reviews extends React.Component<Props, State> {
 										)
 									}
 								</li>
-								<li className="link">
-									<ChatLink/>
-								</li>
 							</ul>
 						</FooterColumn>
-						<img src={footerImage} alt="" className="footer__logo"/>
+						<img src={footerImage} alt="Buy Residential Proxy" className="footer__logo"/>
 					</Row>
 				</Container>
 			</footer>
