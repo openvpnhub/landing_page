@@ -20,14 +20,14 @@ const Reviews = () => (
             </Preamble>
             <Row className="d-flex align-items-center justify-content-center">
                 <Review author="Constance W." authorDepartment="Marketing">
-                    I'm a customer for 4 years+. My no.1 go-to provider of fast proxies.
+                    I'm a customer for 3 years+. My no.1 go-to provider of fast proxies.
                 </Review>
                 <Review author="Floyd L." authorDepartment="SEO">
                     The whole experience is...something different.
                     I tried many providers but these guys know what they're doing.
                 </Review>
                 <Review author="Keith C." authorDepartment="Marketing">
-                    The most reliable proxy seller out there. Excellent experience overall!
+                    The most reliable residential proxy seller around. Excellent experience overall!
                 </Review>
             </Row>
         </Container>

@@ -25,7 +25,7 @@ const Extra = () => (
 				<a
 					href={MEMBERS_URL}
 					className="btn btn--green btn--lg">
-					Order now
+					Order Now
 				</a>
 			</div>
 		</Container>

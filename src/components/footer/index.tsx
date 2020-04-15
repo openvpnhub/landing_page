@@ -30,7 +30,6 @@ import {
 	TOS_ROUTE,
 	REFUNDS_ROUTE,
 	PRIVACY_ROUTE,
-	SITEMAP_ROUTE,
 	SCROLL_SUPPORT,
 	PRICING_ROUTE
 } from '../../constants';
