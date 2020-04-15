@@ -19,8 +19,8 @@ const DedicatedProxy = () => (
 	<React.Fragment>
 		<Helmet>
 			<title>Dedicated Proxies</title>
-			<meta name="description" content={SEO_DESCRIPTION} />
-			<meta name="keywords" content={SEO_KEYWORDS} />
+			<meta name="description" content="Buy 10Gbps dedicated proxies and unblock any blocked websites around the internet. All accounts will be activated instantly and We provide 24/7 excellent support" />
+			<meta name="keywords" content="buy dedicated proxy, dedicated proxy, dedicated proxies, dedicated http proxy, dedicated proxy europe" />
 		</Helmet>
 
 		<ProductsHero title="Dedicated HTTP proxies" btnText="Buy dedicated proxies">
