@@ -36,6 +36,7 @@ class PricingPage extends React.Component<Props, State> {
 
 				<main className="main">
 					<NavBar MenuItem={MenuItem} />
+					<PricingHero />
 				</main>
 
 				<Pricing />
