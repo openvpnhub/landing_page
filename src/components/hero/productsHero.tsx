@@ -6,7 +6,7 @@ import MenuItem from '../navbar/secondaryMenuItem';
 import Preamble from '../generic/preamble';
 
 // Constants
-import { MEMBERS_URL, SIGNUP_URL } from '../../settings';
+import { SIGNUP_URL } from '../../settings';
 
 interface Props {
 	children: any,

@@ -11,6 +11,7 @@ import '../../styles/components/hero.scss';
 
 // Images & icons
 import heroImage from '../../images/hero.png';
+import proxy4lesslogo from '../../images/logo_proxy4less.png';
 
 interface Props {
 	minPrice: string,
@@ -26,6 +27,7 @@ const Hero = ({ minPrice, children }: Props) => (
         <Container fluid>
             <Col lg={{ size: 12 }}>
                 <img src={heroImage} alt="Buy Proxies" className="main-content__img" />
+               <!-- <img src={proxy4lesslogo} alt="Buy Proxies"/> -->
             </Col>
         </Container>
     </div>
