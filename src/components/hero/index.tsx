@@ -27,7 +27,7 @@ const Hero = ({ minPrice, children }: Props) => (
         <Container fluid>
             <Col lg={{ size: 12 }}>
                 <img src={heroImage} alt="Buy Proxies" className="main-content__img" />
-                <img src={proxy4lesslogo} alt="Buy Proxies" style="display:none; visibility:hidden;"/>
+                <img src={proxy4lesslogo} alt="Buy Proxies" className="invisible" />
             </Col>
         </Container>
     </div>
