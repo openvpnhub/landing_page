@@ -12,7 +12,7 @@ import {
 	Row
 } from 'reactstrap';
 import Preamble from '../generic/preamble';
-import ChatLink from '../generic/chatLink';
+//import ChatLink from '../generic/chatLink';
 
 // Scss
 import '../../styles/components/support.scss';
@@ -80,16 +80,10 @@ class Support extends React.Component<Props, State> {
 			<section className="support section section--gradient__1">
 				<Container>
 					<Preamble light title="Support">
-						We offer various layers of support.
+						We offer 24/7 Email support.
 						<br />
-						Please pick one that is more appropriate to your needs.
+						Please contact us using the form below.
 					</Preamble>
-
-					<div className="support-container text-center">
-						<ChatLink />
-
-						<div className="support-separator">or</div>
-					</div>
 
 					<Form>
 						<FormGroup row>
