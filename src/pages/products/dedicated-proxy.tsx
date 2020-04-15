@@ -23,7 +23,7 @@ const DedicatedProxy = () => (
 			<meta name="keywords" content="buy dedicated proxy, dedicated proxy, dedicated proxies, dedicated http proxy, dedicated proxy europe" />
 		</Helmet>
 
-		<ProductsHero title="Dedicated HTTP proxies" btnText="Buy dedicated proxies">
+		<ProductsHero title="Dedicated HTTP Proxies" btnText="Buy dedicated proxies">
 			Our entire infrastructure is built from the ground-up to ensure that our dedicated proxies are owned
 			by a single entity making it impossible to allow any mistakes or accidental sharing.
 			<br />
