@@ -32,7 +32,7 @@ import {
     SCROLL_SUPPORT,
 	PRICING_ROUTE
 } from '../../constants';
-import { MEMBERS_URL } from '../../settings';
+import { MEMBERS_URL, SIGNUP_URL } from '../../settings';
 
 interface Props {
 	MenuItem: any
@@ -110,7 +110,7 @@ class NavBar extends React.Component<Props, State> {
                         </Nav>
                         <Nav className="ml-auto justify-content-end align-items-start align-items-lg-center" navbar>
                             <NavItem>
-                                <NavLink href={MEMBERS_URL} className="text-uppercase nav-link__cta rounded">Buy now</NavLink>
+                                <NavLink href={SIGNUP_URL} className="text-uppercase nav-link__cta rounded">Buy now</NavLink>
                             </NavItem>
                         </Nav>
 

@@ -9,7 +9,7 @@ import {
 } from 'reactstrap';
 
 // Constants
-import { MEMBERS_URL } from '../../settings';
+import { MEMBERS_URL, SIGNUP_URL } from '../../settings';
 
 // Icons
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
@@ -40,7 +40,7 @@ const MainHero = ({ minPrice }: Props) => (
 					(Shared, Dedicated & Residential) Starting at just ${minPrice} USD / Month.
 				</p>
 				<a
-					href={MEMBERS_URL}
+					href={SIGNUP_URL}
 					className="btn btn--green btn--lg mb-0 mt-4">
 					Order Now
 					<FontAwesomeIcon icon={faArrowRight} className="ml-2" />

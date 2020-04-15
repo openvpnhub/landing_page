@@ -6,6 +6,8 @@
 */
 export const MEMBERS_URL = "https://my.proxy4less.com";
 
+export const SIGNUP_URL = "https://my.proxy4less.com/signup";
+
 /*
  Your site name - this appears in the footer
 */
