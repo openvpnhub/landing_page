@@ -16,9 +16,9 @@ const Extra = () => (
 	<section className="extra section section--padding">
 		<Container fluid>
 			<Preamble title="Buy Proxies now">
-				HTTP Proxies or SOCKS, Shared or Dedicated,
+				HTTP Proxies or SOCKS, Shared or Dedicated, Residential
 				<br />
-				we have them all.
+				We have them all.
 			</Preamble>
 
 			<div className="text-center">
