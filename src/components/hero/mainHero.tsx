@@ -37,7 +37,7 @@ const MainHero = ({ minPrice }: Props) => (
 				<p className="main-content__lead lead mb-4">
 					Fully Anonymous Private Proxies
 					<br />
-					(Shared, Dedicated & Residential) Starting at just ${minPrice} USD / Month.
+					(Shared, Dedicated & Residential) Starting at just $0.99 USD / Month.
 				</p>
 				<a
 					href={SIGNUP_URL}
