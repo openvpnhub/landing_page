@@ -25,7 +25,7 @@ const Hero = ({ minPrice, children }: Props) => (
 
         <Container fluid>
             <Col lg={{ size: 12 }}>
-                <img src={heroImage} alt="#" className="main-content__img" />
+                <img src={heroImage} alt="Buy Proxies" className="main-content__img" />
             </Col>
         </Container>
     </div>
